@@ -1,0 +1,357 @@
+#Samples 27
+#Atributtes 303
+#Topics 20
+
+@attribute atrib1 0.32
+@attribute atrib2 0.36
+@attribute atrib3 0.44
+@attribute atrib4 0.59
+@attribute atrib5 0.6
+@attribute atrib6 0.36
+@attribute atrib7 0.41
+@attribute atrib8 0.35
+@attribute atrib9 0.67
+@attribute atrib10 0.57
+@attribute atrib11 0.45
+@attribute atrib12 0.53
+@attribute atrib13 0.46
+@attribute atrib14 0.51
+@attribute atrib15 0.58
+@attribute atrib16 0.66
+@attribute atrib17 0.56
+@attribute atrib18 0.6
+@attribute atrib19 0.44
+@attribute atrib20 0.74
+@attribute atrib21 0.68
+@attribute atrib22 0.51
+@attribute atrib23 0.53
+@attribute atrib24 0.32
+@attribute atrib25 0.36
+@attribute atrib26 0.43
+@attribute atrib27 0.35
+@attribute atrib28 0.43
+@attribute atrib29 0.57
+@attribute atrib30 0.36
+@attribute atrib31 0.36
+@attribute atrib32 0.52
+@attribute atrib33 0.42
+@attribute atrib34 0.56
+@attribute atrib35 0.58
+@attribute atrib36 0.65
+@attribute atrib37 0.49
+@attribute atrib38 0.39
+@attribute atrib39 0.36
+@attribute atrib40 0.57
+@attribute atrib41 0.52
+@attribute atrib42 0.5
+@attribute atrib43 0.41
+@attribute atrib44 0.69
+@attribute atrib45 0.56
+@attribute atrib46 0.38
+@attribute atrib47 0.37
+@attribute atrib48 0.44
+@attribute atrib49 0.4
+@attribute atrib50 0.47
+@attribute atrib51 0.48
+@attribute atrib52 0.36
+@attribute atrib53 0.44
+@attribute atrib54 0.41
+@attribute atrib55 0.43
+@attribute atrib56 0.35
+@attribute atrib57 0.54
+@attribute atrib58 0.44
+@attribute atrib59 0.49
+@attribute atrib60 0.62
+@attribute atrib61 0.46
+@attribute atrib62 0.45
+@attribute atrib63 0.61
+@attribute atrib64 0.4
+@attribute atrib65 0.46
+@attribute atrib66 0.5
+@attribute atrib67 0.53
+@attribute atrib68 0.38
+@attribute atrib69 0.6
+@attribute atrib70 0.54
+@attribute atrib71 0.5
+@attribute atrib72 0.39
+@attribute atrib73 0.36
+@attribute atrib74 0.37
+@attribute atrib75 0.37
+@attribute atrib76 0.35
+@attribute atrib77 0.52
+@attribute atrib78 0.46
+@attribute atrib79 0.37
+@attribute atrib80 0.37
+@attribute atrib81 0.32
+@attribute atrib82 0.41
+@attribute atrib83 0.43
+@attribute atrib84 0.6
+@attribute atrib85 0.7
+@attribute atrib86 0.61
+@attribute atrib87 0.52
+@attribute atrib88 0.31
+@attribute atrib89 0.4
+@attribute atrib90 0.35
+@attribute atrib91 0.35
+@attribute atrib92 0.46
+@attribute atrib93 0.46
+@attribute atrib94 0.38
+@attribute atrib95 0.48
+@attribute atrib96 0.31
+@attribute atrib97 0.45
+@attribute atrib98 0.43
+@attribute atrib99 0.32
+@attribute atrib100 0.32
+@attribute atrib101 0.34
+@attribute atrib102 0.46
+@attribute atrib103 0.46
+@attribute atrib104 0.58
+@attribute atrib105 0.65
+@attribute atrib106 0.65
+@attribute atrib107 0.32
+@attribute atrib108 0.62
+@attribute atrib109 0.37
+@attribute atrib110 0.35
+@attribute atrib111 0.38
+@attribute atrib112 0.32
+@attribute atrib113 0.43
+@attribute atrib114 0.31
+@attribute atrib115 0.5
+@attribute atrib116 0.61
+@attribute atrib117 0.56
+@attribute atrib118 0.43
+@attribute atrib119 0.38
+@attribute atrib120 0.43
+@attribute atrib121 0.52
+@attribute atrib122 0.37
+@attribute atrib123 0.4
+@attribute atrib124 0.33
+@attribute atrib125 0.38
+@attribute atrib126 0.62
+@attribute atrib127 0.33
+@attribute atrib128 0.31
+@attribute atrib129 0.37
+@attribute atrib130 0.62
+@attribute atrib131 0.37
+@attribute atrib132 0.35
+@attribute atrib133 0.37
+@attribute atrib134 0.37
+@attribute atrib135 0.5
+@attribute atrib136 0.45
+@attribute atrib137 0.31
+@attribute atrib138 0.34
+@attribute atrib139 0.34
+@attribute atrib140 0.35
+@attribute atrib141 0.43
+@attribute atrib142 0.39
+@attribute atrib143 0.7
+@attribute atrib144 0.48
+@attribute atrib145 0.32
+@attribute atrib146 0.32
+@attribute atrib147 0.43
+@attribute atrib148 0.32
+@attribute atrib149 0.32
+@attribute atrib150 0.32
+@attribute atrib151 0.32
+@attribute atrib152 0.43
+@attribute atrib153 0.43
+@attribute atrib154 0.32
+@attribute atrib155 0.32
+@attribute atrib156 0.31
+@attribute atrib157 0.37
+@attribute atrib158 0.43
+@attribute atrib159 0.32
+@attribute atrib160 0.32
+@attribute atrib161 0.32
+@attribute atrib162 0.37
+@attribute atrib163 0.32
+@attribute atrib164 0.32
+@attribute atrib165 0.32
+@attribute atrib166 0.35
+@attribute atrib167 0.37
+@attribute atrib168 0.32
+@attribute atrib169 0.32
+@attribute atrib170 0.32
+@attribute atrib171 0.43
+@attribute atrib172 0.32
+@attribute atrib173 0.32
+@attribute atrib174 0.41
+@attribute atrib175 0.32
+@attribute atrib176 0.32
+@attribute atrib177 0.32
+@attribute atrib178 0.37
+@attribute atrib179 0.46
+@attribute atrib180 0.32
+@attribute atrib181 0.32
+@attribute atrib182 0.43
+@attribute atrib183 0.32
+@attribute atrib184 0.32
+@attribute atrib185 0.43
+@attribute atrib186 0.32
+@attribute atrib187 0.56
+@attribute atrib188 0.43
+@attribute atrib189 0.35
+@attribute atrib190 0.37
+@attribute atrib191 0.43
+@attribute atrib192 0.32
+@attribute atrib193 0.32
+@attribute atrib194 0.32
+@attribute atrib195 0.74
+@attribute atrib196 0.37
+@attribute atrib197 0.39
+@attribute atrib198 0.43
+@attribute atrib199 0.52
+@attribute atrib200 0.32
+@attribute atrib201 0.32
+@attribute atrib202 0.32
+@attribute atrib203 0.53
+@attribute atrib204 0.32
+@attribute atrib205 0.55
+@attribute atrib206 0.43
+@attribute atrib207 0.32
+@attribute atrib208 0.32
+@attribute atrib209 0.32
+@attribute atrib210 0.32
+@attribute atrib211 0.32
+@attribute atrib212 0.32
+@attribute atrib213 0.32
+@attribute atrib214 0.32
+@attribute atrib215 0.32
+@attribute atrib216 0.32
+@attribute atrib217 0.32
+@attribute atrib218 0.32
+@attribute atrib219 0.56
+@attribute atrib220 0.32
+@attribute atrib221 0.31
+@attribute atrib222 0.52
+@attribute atrib223 0.32
+@attribute atrib224 0.35
+@attribute atrib225 0.43
+@attribute atrib226 0.6
+@attribute atrib227 0.52
+@attribute atrib228 0.32
+@attribute atrib229 0.46
+@attribute atrib230 0.32
+@attribute atrib231 0.35
+@attribute atrib232 0.32
+@attribute atrib233 0.32
+@attribute atrib234 0.32
+@attribute atrib235 0.4
+@attribute atrib236 0.46
+@attribute atrib237 0.56
+@attribute atrib238 0.32
+@attribute atrib239 0.32
+@attribute atrib240 0.32
+@attribute atrib241 0.37
+@attribute atrib242 0.38
+@attribute atrib243 0.32
+@attribute atrib244 0.32
+@attribute atrib245 0.32
+@attribute atrib246 0.34
+@attribute atrib247 0.32
+@attribute atrib248 0.34
+@attribute atrib249 0.33
+@attribute atrib250 0.37
+@attribute atrib251 0.32
+@attribute atrib252 0.43
+@attribute atrib253 0.35
+@attribute atrib254 0.35
+@attribute atrib255 0.54
+@attribute atrib256 0.37
+@attribute atrib257 0.32
+@attribute atrib258 0.32
+@attribute atrib259 0.35
+@attribute atrib260 0.3
+@attribute atrib261 0.35
+@attribute atrib262 0.45
+@attribute atrib263 0.31
+@attribute atrib264 0.31
+@attribute atrib265 0.38
+@attribute atrib266 0.59
+@attribute atrib267 0.6
+@attribute atrib268 0.37
+@attribute atrib269 0.32
+@attribute atrib270 0.47
+@attribute atrib271 0.35
+@attribute atrib272 0.52
+@attribute atrib273 0.35
+@attribute atrib274 0.32
+@attribute atrib275 0.32
+@attribute atrib276 0.32
+@attribute atrib277 0.35
+@attribute atrib278 0.32
+@attribute atrib279 0.35
+@attribute atrib280 0.32
+@attribute atrib281 0.35
+@attribute atrib282 0.32
+@attribute atrib283 0.32
+@attribute atrib284 0.32
+@attribute atrib285 0.35
+@attribute atrib286 0.32
+@attribute atrib287 0.32
+@attribute atrib288 0.32
+@attribute atrib289 0.32
+@attribute atrib290 0.35
+@attribute atrib291 0.35
+@attribute atrib292 0.35
+@attribute atrib293 0.35
+@attribute atrib294 0.37
+@attribute atrib295 0.32
+@attribute atrib296 0.35
+@attribute atrib297 0.32
+@attribute atrib298 0.32
+@attribute atrib299 0.32
+@attribute atrib300 0.34
+@attribute atrib301 0.35
+@attribute atrib302 0.32
+@attribute atrib303 0.48
+@topic c22 12
+@topic ccat 34
+@topic c31 4
+@topic c15 10
+@topic c152 5
+@topic c13 2
+@topic c34 3
+@topic c11 6
+@topic c313 2
+@topic c18 3
+@topic c181 3
+@topic c33 3
+@topic c151 5
+@topic c41 1
+@topic c21 1
+@topic c1511 2
+@topic c12 1
+@topic gcat 1
+@topic gcrim 1
+@topic c24 1
+
+@data
+
+0:1 1:17 2:1 3:16 4:2 5:2 6:2 7:2 8:3 9:1 10:1 11:4 12:4 13:1 14:6 15:1 16:4 17:3 18:1 19:1 20:2 21:1 22:1 23:1 24:1 25:1 26:1 27:1 28:1 29:1 30:1 31:1 32:1 33:1 34:2 35:2 36:2 37:1 38:1 39:1 40:3 41:2 42:1 43:2 44:3 45:3 46:1 47:1 48:1 49:2 50:2 51:1 52:1 53:1 54:2 55:1 56:1 57:1 58:1 59:6 60:1 61:1 62:1 63:1 64:3 65:1 66:1 67:1 68:1 69:1 70:1 71:1 72:1 73:2 74:1 75:1 76:1 77:1 78:1 79:1 80:1 81:1 82:1 83:1 84:1 85:1 86:1 87:1 88:1 89:1 90:3 91:1 92:2 93:1 94:1 95:1 96:1 97:1 98:1 99:1 100:1 101:1 102:1 103:1 104:1 105:1 106:1 107:1 108:2 109:1 110:1 # c22 ccat
+0:1 1:5 2:1 3:1 4:6 5:3 6:2 7:3 8:3 9:1 10:1 11:1 12:1 13:3 14:1 15:1 16:1 17:1 18:1 19:1 20:1 21:1 22:1 23:1 24:1 25:2 26:1 27:1 28:2 29:1 30:1 31:1 32:1 33:1 34:1 35:1 36:1 37:1 38:1 39:1 # c22 c33 ccat
+0:1 1:9 2:1 3:14 4:7 5:3 6:3 7:4 8:2 9:7 10:10 11:2 12:1 13:1 14:1 15:3 16:1 17:1 18:1 19:4 20:1 21:1 22:1 23:1 24:2 25:1 26:1 27:1 28:1 29:1 30:1 31:1 32:2 33:1 34:1 35:1 36:1 37:3 38:1 39:1 40:1 41:2 42:2 43:1 44:5 45:2 46:2 47:2 48:1 49:1 50:2 51:3 52:3 53:1 54:1 55:1 56:1 57:1 58:1 59:1 60:1 61:1 62:3 63:1 64:1 65:2 66:3 67:1 68:1 69:1 70:1 71:1 72:1 73:1 74:1 75:1 76:1 77:1 78:1 79:1 80:2 81:1 82:2 83:1 84:1 85:2 86:1 87:1 88:1 89:1 90:1 91:1 92:3 93:1 94:1 95:2 96:2 97:1 98:1 99:1 100:1 101:1 102:1 103:3 104:2 105:1 106:1 107:1 108:1 109:1 110:1 111:1 112:1 113:1 114:1 115:1 116:1 117:1 118:1 119:1 120:1 121:1 122:1 123:1 124:1 125:1 126:1 # c22 c31 ccat
+0:1 1:1 2:3 3:3 4:2 5:2 6:2 7:2 8:1 9:1 10:1 11:1 12:1 13:1 14:1 15:1 # c15 c151 ccat
+0:1 1:2 2:1 3:2 4:2 5:2 6:1 7:1 8:1 9:1 10:1 11:1 12:1 # c15 c151 ccat
+0:1 1:2 2:1 3:1 4:1 5:1 6:1 7:1 8:1 9:1 10:2 11:1 12:1 13:1 14:1 # c18 c181 ccat
+0:1 1:4 2:9 3:1 4:2 5:2 6:2 7:1 8:1 9:1 10:5 11:2 12:2 13:8 14:1 15:2 16:1 17:1 18:10 19:2 20:2 21:6 22:2 23:4 24:1 25:1 26:1 27:4 28:1 29:1 30:1 31:1 32:2 33:3 34:1 35:4 36:1 37:2 38:1 39:1 40:1 41:1 42:2 43:2 44:1 45:4 46:1 47:3 48:1 49:1 50:1 51:1 52:1 53:1 54:1 55:1 56:1 57:5 58:2 59:3 60:1 61:4 62:1 63:1 64:1 65:1 66:1 67:1 68:1 69:1 70:1 71:1 72:1 73:1 74:1 75:1 76:1 77:1 78:1 79:1 80:1 81:1 82:1 83:3 84:3 85:1 86:4 87:6 88:1 89:1 90:2 91:2 92:1 93:1 94:1 95:1 96:1 97:1 98:1 99:1 100:1 101:1 102:1 103:1 104:1 105:1 106:1 107:1 108:1 109:1 110:1 111:1 112:3 113:1 114:2 115:1 116:1 117:1 118:1 119:1 120:1 121:1 122:1 123:1 124:2 125:1 126:1 127:3 128:1 129:1 130:2 131:1 132:2 133:1 134:1 135:1 136:1 137:1 138:1 139:1 140:1 141:1 142:1 143:1 144:1 145:1 146:1 147:1 148:1 149:2 150:1 151:1 152:1 153:1 154:2 155:1 156:1 157:2 158:1 159:1 160:1 161:1 162:2 163:1 164:1 165:1 166:1 167:1 168:2 169:1 170:1 171:1 172:1 173:1 174:2 175:1 176:3 177:1 178:1 179:1 180:1 181:1 182:1 183:1 184:1 185:2 186:4 187:1 188:1 189:1 190:2 191:1 192:1 193:1 194:1 195:1 196:1 197:1 198:1 199:1 200:1 201:1 202:1 203:1 204:1 205:1 206:1 207:1 208:1 209:1 # c11 c41 ccat
+0:1 1:8 2:4 3:3 4:1 5:4 6:3 7:1 8:2 9:1 10:1 11:1 12:1 13:1 14:1 15:3 16:1 17:1 18:1 19:2 20:1 21:1 22:1 23:1 24:1 25:1 26:1 27:1 28:1 29:1 30:1 31:1 32:2 33:1 34:1 35:1 36:1 37:1 38:1 39:1 40:1 41:2 42:1 43:1 44:1 45:1 46:1 47:1 48:1 49:1 50:1 51:1 52:1 53:1 54:1 55:1 56:1 57:1 58:1 59:1 60:1 61:1 62:1 63:1 64:1 65:1 66:1 67:1 68:1 # c22 ccat
+0:1 1:3 2:3 3:1 4:4 5:3 6:1 7:2 8:1 9:1 10:1 11:1 12:2 13:1 14:1 15:1 16:2 17:1 18:1 19:1 20:1 21:2 22:2 23:1 24:1 25:1 26:1 27:1 28:1 29:1 30:1 31:1 # c11 ccat
+0:3 1:3 2:2 3:8 4:4 5:3 6:2 7:1 8:12 9:2 10:2 11:1 12:4 13:1 14:1 15:3 16:2 17:2 18:2 19:1 20:1 21:2 22:1 23:1 24:1 25:1 26:2 27:1 28:1 29:1 30:1 31:1 32:1 33:1 34:1 35:1 36:1 37:1 38:3 39:1 40:1 41:1 42:1 43:1 44:1 45:2 46:1 47:1 48:1 49:1 50:1 51:1 52:1 53:1 54:1 55:1 56:1 57:1 58:1 59:1 60:1 61:1 62:1 63:1 64:2 65:1 66:1 67:1 68:1 69:1 70:1 71:1 # c15 c152 c21 ccat
+0:1 1:3 2:3 3:9 4:2 5:3 6:3 7:1 8:2 9:2 10:2 11:4 12:2 13:2 14:4 15:2 16:2 17:2 18:12 19:4 20:2 21:2 22:4 23:2 24:4 25:2 26:2 27:2 28:2 29:1 30:1 31:1 # c15 c151 c1511 ccat
+0:1 1:7 2:1 3:2 4:1 5:1 6:4 7:2 8:2 9:1 10:1 11:1 12:1 13:3 14:1 15:2 16:2 17:2 18:1 19:1 20:1 21:1 22:2 23:2 24:1 25:2 26:1 27:1 28:1 29:1 30:1 31:1 32:1 33:2 34:1 35:1 36:1 37:1 38:1 # c22 c33 ccat
+0:1 1:16 2:2 3:14 4:1 5:1 6:1 7:6 8:1 9:1 10:3 11:2 12:1 13:2 14:1 15:1 16:2 17:1 18:2 19:1 20:2 21:1 22:1 23:1 24:5 25:1 26:1 27:2 28:1 29:1 30:2 31:1 32:3 33:3 34:1 35:1 36:1 37:1 38:1 39:1 40:2 41:1 42:1 43:1 44:2 45:1 46:1 47:1 48:1 49:1 50:1 51:1 52:2 53:1 54:1 55:1 56:2 57:1 58:1 59:1 60:3 61:1 62:1 63:1 64:1 65:1 66:1 67:1 68:1 69:1 70:3 71:1 72:2 73:2 74:1 75:1 76:1 77:2 78:3 79:1 80:1 81:1 82:3 83:1 84:1 85:1 86:1 87:1 88:1 89:1 90:4 91:1 92:1 93:1 94:1 95:2 96:1 97:2 98:1 99:1 100:1 101:1 102:1 103:1 104:2 105:1 106:1 107:1 108:1 109:1 110:1 111:1 112:1 113:1 114:1 115:1 116:1 117:1 118:1 119:1 120:1 121:1 122:1 123:1 124:1 125:1 126:1 127:1 128:1 129:1 130:1 131:1 132:1 133:1 134:1 135:1 136:1 137:1 138:1 139:1 140:1 141:1 142:1 143:1 144:1 # c22 c31 c313 c34 ccat
+0:1 1:1 2:2 3:1 4:2 5:1 6:1 7:3 8:3 9:1 10:1 11:1 12:1 13:10 14:1 15:6 16:1 17:1 18:3 19:1 20:1 21:2 22:6 23:2 24:1 25:1 26:1 27:1 28:2 29:2 30:2 31:1 32:1 33:1 34:1 35:1 36:1 37:1 38:1 39:1 40:1 41:1 # c15 c152 ccat
+0:4 1:1 2:1 3:3 4:2 5:2 6:1 7:1 8:1 9:3 10:2 11:1 12:1 13:1 14:1 15:1 16:3 17:1 18:1 19:2 20:1 21:1 22:1 23:2 24:1 25:1 26:1 27:2 28:1 29:4 30:5 31:2 32:1 33:2 34:1 35:1 36:1 37:1 38:1 39:1 40:1 41:1 42:1 43:1 44:1 45:1 46:1 47:1 48:1 49:1 50:1 51:1 52:1 53:1 54:1 55:1 56:1 57:1 58:1 59:1 60:1 61:1 62:1 63:1 64:1 65:1 66:1 67:1 68:1 69:1 70:1 71:1 # c12 ccat gcat gcrim
+0:1 1:3 2:2 3:3 4:1 5:5 6:4 7:1 8:1 9:1 10:4 11:1 12:2 13:1 14:1 15:1 16:1 17:1 18:1 19:1 20:1 21:1 22:1 23:1 24:1 25:1 26:3 27:1 28:1 29:1 30:3 31:1 32:1 33:1 34:1 35:1 36:1 37:2 38:2 39:1 40:1 41:1 42:2 43:1 44:1 45:1 46:1 47:1 48:1 49:1 50:1 51:2 52:1 53:1 54:1 55:1 56:1 57:1 58:1 59:1 60:1 61:1 62:1 63:2 64:1 65:1 66:1 67:1 68:1 69:1 70:1 71:1 72:1 73:1 74:1 75:1 76:1 77:2 78:1 79:1 80:1 81:1 82:1 83:1 84:1 85:1 # c11 ccat
+0:1 1:9 2:4 3:4 4:1 5:5 6:1 7:1 8:1 9:5 10:1 11:1 12:2 13:1 14:1 15:1 16:1 17:1 18:1 19:1 20:1 21:3 22:1 23:1 24:3 25:1 26:2 27:1 28:1 29:1 30:1 31:1 32:1 33:1 34:1 35:1 36:2 37:1 38:1 39:3 40:2 41:1 42:1 43:1 44:1 45:1 46:1 47:1 48:1 49:1 50:1 51:1 52:1 53:1 54:1 55:1 56:1 57:1 # c22 ccat
+0:1 1:10 2:2 3:1 4:14 5:1 6:2 7:1 8:2 9:2 10:4 11:2 12:6 13:1 14:1 15:1 16:1 17:1 18:1 19:2 20:1 21:1 22:2 23:1 24:1 25:2 26:5 27:1 28:4 29:2 30:1 31:1 32:1 33:1 34:1 35:1 36:1 37:1 38:1 39:1 40:1 41:3 42:1 43:1 44:1 45:1 46:1 47:1 48:2 49:1 50:1 51:3 52:1 53:1 54:1 55:1 56:1 57:1 58:1 59:1 60:1 61:1 62:2 63:2 64:1 65:1 66:1 67:1 68:1 69:1 70:1 71:1 72:1 73:1 74:1 75:1 76:1 77:2 78:1 79:1 80:1 81:1 82:1 83:1 84:1 85:1 86:1 87:2 88:1 89:3 90:1 91:1 92:1 93:1 94:1 95:1 96:1 97:2 98:1 99:1 100:2 101:1 102:1 103:1 104:1 105:1 106:1 107:1 108:1 109:2 110:3 111:1 112:1 113:1 114:1 115:1 116:3 117:1 118:1 119:1 120:1 121:1 122:1 123:1 124:1 125:1 126:1 127:1 128:1 129:1 130:1 131:1 132:1 133:1 134:1 135:1 136:2 137:1 138:1 139:1 140:1 141:1 # c13 c34 ccat
+0:1 1:1 2:2 3:2 4:6 5:2 6:13 7:15 8:2 9:1 10:1 11:7 12:7 13:1 14:1 15:1 16:2 17:3 18:2 19:7 20:4 21:1 22:8 23:3 24:3 25:5 26:3 27:7 28:2 29:2 30:1 31:1 32:1 33:4 34:1 35:1 36:2 37:7 38:2 39:4 40:1 41:1 42:3 43:1 44:3 45:1 46:1 47:6 48:2 49:2 50:1 51:1 52:1 53:1 54:1 55:2 56:2 57:1 58:1 59:1 60:5 61:3 62:1 63:1 64:1 65:3 66:1 67:1 68:1 69:1 70:3 71:2 72:1 73:1 74:1 75:2 76:2 77:1 78:1 79:1 80:1 81:1 82:1 83:1 84:1 85:1 86:1 87:1 88:1 89:1 90:2 91:1 92:1 93:2 94:1 95:1 96:1 97:1 98:1 99:1 100:1 101:1 102:1 103:1 104:1 105:1 106:1 107:1 108:4 109:1 110:1 111:1 112:1 113:1 114:2 115:4 116:1 117:1 118:2 119:2 120:2 121:1 122:1 123:1 124:1 125:1 126:1 127:1 128:1 129:1 130:1 131:1 132:1 133:1 134:1 135:1 136:1 137:1 138:1 139:1 140:1 141:1 142:1 143:1 144:1 145:1 146:1 147:1 148:1 149:1 150:1 151:1 152:1 153:1 154:1 155:1 156:1 157:1 158:1 159:1 160:2 161:1 162:1 163:1 164:1 165:1 166:1 167:1 168:1 169:1 170:1 171:1 172:1 173:1 174:1 175:1 176:1 # c11 ccat
+0:1 1:1 2:2 3:1 4:1 5:1 6:1 7:1 8:1 9:1 10:2 11:1 12:2 13:1 14:1 15:1 16:1 17:1 18:1 19:1 20:1 # c15 c152 ccat
+0:1 1:1 2:2 3:1 4:1 5:1 6:1 7:1 8:1 9:1 10:1 11:1 12:1 13:1 14:1 # c15 c152 ccat
+0:1 1:5 2:2 3:3 4:2 5:1 6:1 7:1 8:1 9:3 10:1 11:2 12:1 13:1 14:1 15:1 16:1 17:1 18:1 19:1 20:1 21:1 22:1 23:2 24:1 25:1 26:1 27:1 28:1 29:2 30:1 31:1 32:1 33:1 34:1 35:1 36:1 # c18 c181 ccat
+0:1 1:3 2:3 3:3 4:2 5:2 6:1 7:1 8:1 9:1 10:1 11:1 12:1 13:1 14:1 15:1 16:1 17:1 # c33 ccat
+0:1 1:2 2:2 3:2 4:1 5:1 6:1 7:1 8:3 9:3 10:1 11:1 12:1 13:1 14:1 15:1 16:1 17:1 18:1 19:1 20:1 # c15 c151 ccat
+0:1 1:2 2:2 3:3 4:1 5:1 6:1 7:2 8:1 9:1 10:1 11:1 12:1 13:2 14:1 15:1 16:2 17:1 18:1 19:1 20:1 21:1 22:2 23:3 24:3 25:1 26:2 27:1 28:1 29:1 30:1 31:1 32:1 # c15 c151 c1511 ccat
+0:1 1:8 2:4 3:1 4:4 5:5 6:6 7:1 8:1 9:1 10:2 11:1 12:2 13:2 14:1 15:2 16:2 17:1 18:2 19:1 20:1 21:1 22:4 23:1 24:1 25:1 26:3 27:1 28:1 29:1 30:2 31:2 32:2 33:1 34:1 35:1 36:1 37:1 38:2 39:2 40:1 41:1 42:1 43:1 44:1 45:1 46:1 47:1 48:2 49:2 50:2 51:1 52:1 53:1 54:1 55:1 56:2 57:1 58:2 59:1 60:1 61:1 62:1 63:1 64:1 65:1 66:1 67:1 68:1 69:1 70:1 71:1 72:1 73:1 74:1 75:1 76:1 77:1 # c24 ccat
+0:1 1:5 2:8 3:3 4:1 5:1 6:1 7:1 8:1 9:3 10:1 11:1 12:2 13:1 14:1 15:1 16:1 17:1 18:1 19:1 20:1 21:1 22:2 23:2 24:2 25:1 26:2 27:1 28:1 29:1 30:1 31:1 32:1 33:1 34:1 35:1 36:1 37:1 38:1 39:1 40:1 41:1 42:2 43:1 44:1 45:1 46:2 47:2 48:2 49:2 50:2 51:1 52:1 53:1 54:1 55:1 56:1 57:1 58:1 59:1 60:1 61:1 62:2 63:1 64:3 65:1 66:2 67:1 68:1 69:1 70:1 71:1 72:1 73:1 74:1 75:1 76:1 77:1 78:1 79:1 80:1 81:1 82:1 83:1 84:1 85:1 86:1 87:1 # c22 ccat
